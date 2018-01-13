@@ -9,7 +9,7 @@ First, I created this website in my computer using Atom.
 I used Bootstrap to find some inspiration, but I created not only my own HTML but also the CSS. I wasn't supposed to do this, but I had some problems in the process, so I made a virtue out of necessity and I could customize more my website (and learn, by the way)
 
 # How I uploaded the website
-I created a new repository and, inside it, a new file. This file was named "docs/index,html". Once I had it, I copied my html code and pasted there. Then, commit changes. 
+I created a new repository and, inside it, a new file. This file was named "docs/index.html". Once I had it, I copied my html code and pasted there. Then, commit changes. 
 
 The next step was the css. I created a new file in the same folder (where I have the index.html) and stored it ending in .css. I gave it the name "indexstyle.css", so I needed to replace the name as well in index.html to actually relate the two documents. 
 
