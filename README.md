@@ -1,7 +1,7 @@
 # hello
 Personal webpage
 
-As you probably have guessed, "Hello" is my repository to store my personal website. Surprisingly, isn't it? :astonished: :joy:
+As you probably have guessed, "Hello" is my repository to store my personal website. Surprising, isn't it? :astonished: :joy:
 
 # How I did the website
 First, I created this website in my computer using Atom. 
