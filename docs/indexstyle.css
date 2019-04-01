@@ -46,7 +46,7 @@ p {
 }
 @font-face {
   font-family: spark;
-  src: url(https://github.com/Carmen-Aguilar/hello/blob/master/docs/spark-bar-medium.woff);
+  src: url(spark-bar-medium.woff);
   font-variant-ligatures: contextual;
   -moz-font-feature-settings: "calt";
   -webkit-font-feature-settings: "calt";
