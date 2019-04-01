@@ -45,16 +45,17 @@ p {
   letter-spacing: 0.5px;
 }
 @font-face {
-  font-family: spark;
-  src: url(spark-bar-medium.woff);
-  font-variant-ligatures: contextual;
-  -moz-font-feature-settings: "calt";
-  -webkit-font-feature-settings: "calt";
-  font-feature-settings: "calt";
-}
+          font-family: spark-bar-medium;
+          src: url(https://cdn.rawgit.com/aftertheflood/spark/ec03b3fd/Output/Webfonts/Bar%20-%20medium/spark-bar-medium.woff);
+          font-variant-ligatures: contextual;
+          -moz-font-feature-settings: "calt";
+          -webkit-font-feature-settings: "calt";
+          font-feature-settings: "calt";
+        }
+
 
 span.barchartstyle {
-    font-family: spark;
+    font-family: spark-bar-medium;
   font-size: 34px;
   color: orange;
 }
